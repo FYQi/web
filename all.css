@@ -1,0 +1,10 @@
+html{
+    font-size: 12px;
+}
+
+.navbar-var a{
+    color: gray;
+}
+.navbar-var a:hover{
+    color: white;
+}
